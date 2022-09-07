@@ -20,6 +20,13 @@ Do the following:
    HINT: no function required
 */
 
+const votingAge = 18;
+
+if(votingAge >= 18){
+  console.log('task 1 a:', true);
+}else{
+  console.log('task 1 a:', false);
+}
 
 
 /*
